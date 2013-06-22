@@ -1,4 +1,4 @@
-INPUT
+INPUT from logging clients
 
 1. Validatiefout -> Alle data doorsturen naar server (appID, formdata), ...
 2. HTTP-Errors/ File-errors
@@ -22,3 +22,21 @@ INPUT
 21. Analytics
 22. User-actions
 23. 
+
+INPUT from logging users
+1. Server administration
+2. User administration
+3. Logging server administration
+4. Report request
+5. Report configuration
+6.
+
+
+Output
+1. Timed report
+2. Push notification
+3. Email report
+4. Sms notification
+5. 
+
+Verwerking
