@@ -1,0 +1,18 @@
+Data:
+	AppID
+	DateTime
+	LogLevel
+	Headers
+		IP-addess
+	Data
+		AccountID
+		LoginType #oauth, BASIC-auth, ...
+	
+
+Actions:
+	Store data
+	Send notification to user
+
+Result:
+	Success of storage
+	Success of notification 

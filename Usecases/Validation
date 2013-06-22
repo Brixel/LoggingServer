@@ -6,6 +6,7 @@ Data:
 	DateTime
 	ValidationError
 	Failed field
+	LogLevel
 Actions:
 	Store data
 	Send notify user

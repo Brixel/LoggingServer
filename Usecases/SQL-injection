@@ -1,0 +1,17 @@
+#See http://xkcd.com/327/
+
+Data:
+	AppID
+	Headers
+		IP-address
+		URL
+	DateTime
+	Data
+
+Actions:
+	Store data
+	Send notification to user
+
+Result:
+	Success of storage
+	Success of notification 

@@ -1,0 +1,17 @@
+Data:
+	HTTP-Code
+	HTTP-Response-message
+	AppID
+	DateTime
+	HTTP-headers
+	Request-URL
+	LogLevel
+
+Actions:
+	Store data
+	Send notification to user
+	Servercheck
+
+Result:
+	Success of storage
+	Success of notification 

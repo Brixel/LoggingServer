@@ -1,0 +1,18 @@
+Data:
+	AppID
+	Headers
+	DateTime
+	ServiceName
+	Runtime
+	Port
+	
+
+Actions:
+	Store data
+	Send notification to user
+	if(ServiceStatus==DOWN)
+		Servercheck
+
+Result:
+	Success of storage
+	Success of notification 
