@@ -4,10 +4,13 @@ Data:
 	DateTime
 	LogLevel
 	ServerID
+	HostingMessage
+	Hoster
 
 Actions:
 	Store data
 	Send notification to user
+	ServerCheck
 
 Result:
 	Success of storage

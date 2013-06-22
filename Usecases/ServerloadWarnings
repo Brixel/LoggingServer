@@ -4,10 +4,19 @@ Data:
 	DateTime
 	LogLevel
 	ServerID
+	CPU-level
+	RAMUsage
+	Networktraffic
+	DiskUsage
+	Speedtest
+	Bandwidth
+	Uptime
+	
 
 Actions:
 	Store data
 	Send notification to user
+	ServerCheck
 
 Result:
 	Success of storage

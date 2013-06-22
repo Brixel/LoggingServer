@@ -1,9 +1,12 @@
 Data:
 	AppID
-	Headers
 	DateTime
 	LogLevel
-	ServerID
+	Filepath
+	Permissions
+	Owner-Group
+	ModifiedDate
+	UserChanged
 
 Actions:
 	Store data

@@ -2,8 +2,8 @@ Data:
 	AppID
 	Headers
 	DateTime
-	LogLevel
-	ServerID
+	ErrorMessage
+	ErrorCode
 
 Actions:
 	Store data
