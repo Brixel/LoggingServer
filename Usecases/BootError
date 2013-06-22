@@ -1,0 +1,17 @@
+Data:
+	AppID
+	Headers
+	DateTime
+	LogLevel
+	ServerID
+	Data
+
+Actions:
+	Store data
+	Send notification to user
+
+Result:
+	Success of services
+	Success of mountings
+	Success of network
+	Storage usage
