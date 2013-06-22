@@ -1,12 +1,8 @@
 INPUT from logging clients
 
-2. HTTP-Errors/ File-errors
 3. Timeout
 4. Server-errors (5xx)
-6. Loglevels (Info, Debug , Warning, Error)
-7. Login-attempts
-8. SQL-Injections + XSS
-9. Servercheck (db, mail, apache, ftp, ...)
+#ServerCheck -> ServiceCheck
 10. Filehacks (Framework weaknesses)
 11. Application errors
 12. Compile errors
