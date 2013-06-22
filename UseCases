@@ -1,0 +1,24 @@
+INPUT
+
+1. Validatiefout -> Alle data doorsturen naar server (appID, formdata), ...
+2. HTTP-Errors/ File-errors
+3. Timeout
+4. Server-errors (5xx)
+6. Loglevels (Info, Debug , Warning, Error)
+7. Login-attempts
+8. SQL-Injections + XSS
+9. Servercheck (db, mail, apache, ftp, ...)
+10. Filehacks (Framework weaknesses)
+11. Application errors
+12. Compile errors
+13. Hostingmessages
+14. Serverloadwarnings
+15. Framework updates
+16. Cheat-alerts
+17. dmesg
+18. Booterrors
+19. Poortconflicten
+20. Backups report
+21. Analytics
+22. User-actions
+23. 
