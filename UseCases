@@ -3,19 +3,8 @@ INPUT from logging clients
 3. Timeout
 4. Server-errors (5xx)
 #ServerCheck -> ServiceCheck
-10. Filehacks (Framework weaknesses)
-11. Application errors
-12. Compile errors
-13. Hostingmessages
-14. Serverloadwarnings
-15. Framework updates
-16. Cheat-alerts
-17. dmesg
 18. Booterrors
-19. Poortconflicten
-20. Backups report
 21. Analytics
-22. User-actions
 23. 
 
 INPUT from logging users
