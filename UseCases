@@ -1,6 +1,5 @@
 INPUT from logging clients
 
-1. Validatiefout -> Alle data doorsturen naar server (appID, formdata), ...
 2. HTTP-Errors/ File-errors
 3. Timeout
 4. Server-errors (5xx)
