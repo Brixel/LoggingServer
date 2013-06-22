@@ -1,0 +1,14 @@
+Data:
+	AppID // Website/WebApp/Application ID
+	Form-data
+	Headers
+	Session-data
+	DateTime
+	ValidationError
+	Failed field
+Actions:
+	Store data
+	Send notify user
+Result:
+	Success of store data
+	Success of notified data
