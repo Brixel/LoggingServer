@@ -1,0 +1,16 @@
+Data:
+	AppID
+	Headers
+		URL
+	DateTime
+	LogLevel
+	ServerID
+		
+
+Actions:
+	Store data
+	Send notification to user
+
+Result:
+	Success of storage
+	Success of notification 

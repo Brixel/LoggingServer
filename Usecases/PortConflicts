@@ -1,0 +1,17 @@
+Data:
+	AppID
+	Headers
+	DateTime
+	LogLevel
+	ServerID
+	Port
+	ServicesArray
+
+Actions:
+	Store data
+	Send notification to user
+	ServerCheck
+
+Result:
+	Success of storage
+	Success of notification 
