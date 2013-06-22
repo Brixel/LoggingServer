@@ -1,0 +1,20 @@
+Data:
+	AppID
+	Headers
+	DateTime
+	LogLevel
+	ServerID
+	BackupStarTime
+	BackupEndTime
+	BackupChangedFilesList
+	BackupDestination
+
+Actions:
+	Store data
+	Send notification to user
+	ServerCheck
+	DestinationCheck
+
+Result:
+	Success of storage
+	Success of notification

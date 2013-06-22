@@ -1,0 +1,20 @@
+Data:
+	AppID
+	Headers
+	DateTime
+	LogLevel
+	ServerID
+	FrameworkName
+	FrameworkVersion
+	RepositoryURL
+	ChangelogURL
+
+Actions:
+	Store data
+	Send notification to user
+	Update framework
+
+Result:
+	Success of storage
+	Success of notification 
+	Success of update
