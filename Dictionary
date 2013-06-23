@@ -1,3 +1,4 @@
 User = Physical user
 Server = LoggingServer (this)
 Client = Software connecting to LoggingServer (this)
+Report = Report from the Server to the User
